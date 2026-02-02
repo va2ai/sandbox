@@ -2,6 +2,10 @@
 
 Mobile-first PWA for generative AI design using xAI Grok and Google Gemini APIs.
 
+## Repository
+- **Repo**: https://github.com/va2ai/sandbox
+- **Part of**: sandbox megarepo (first project)
+
 ## Tech Stack
 - Next.js 16 (App Router, Turbopack)
 - Tailwind CSS 4 + shadcn/ui
